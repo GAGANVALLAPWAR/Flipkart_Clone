@@ -5,7 +5,7 @@ This repository contains a static Flipkart Clone developed using only HTML and C
 Project Overview:
 The Flipkart Clone simulates the homepage and several key sections of the Flipkart website, including the header, navigation bar, banner section, product category sliders, product listings, and footer. Although it does not include JavaScript or any backend functionality like search, user authentication, or a working cart system, it focuses entirely on building a visually appealing and responsive interface using pure HTML and CSS.
 
-Features
+Features:
 This clone includes the essential features you would expect on an e-commerce front page:
 
 A top header with the Flipkart logo, search bar, login button, cart icon, and more.
