@@ -81,7 +81,7 @@ Integrating a simple cart and checkout system using localStorage or backend inte
 
 Using a front-end framework like React or backend support with Node.js and Express for full-stack development.
 
-Contribution
+Contribution:
 This project is open for learning and experimentation. You are welcome to fork the repository, make improvements, and submit pull requests. Whether you're practicing front-end design or planning to integrate full functionality, contributions are always appreciated.
 
 License
