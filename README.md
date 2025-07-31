@@ -53,7 +53,7 @@ You should now see the Flipkart Clone UI rendered fully on your browser.
 
 There is no need for any additional installations, servers, or database setup since this is a static front-end project.
 
-Limitations
+Limitations:
 As this clone is built using only HTML and CSS, there are several functional limitations:
 
 The search bar does not function.
