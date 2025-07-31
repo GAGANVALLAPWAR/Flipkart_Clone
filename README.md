@@ -20,7 +20,7 @@ A footer section that includes links to customer service, about pages, policies,
 
 All components are styled to reflect the real Flipkart interface as closely as possible using only CSS properties like Flexbox and Grid for layout, as well as media queries for responsiveness.
 
-Technologies Used
+Technologies Used:
 The project is built using:
 
 HTML5 – for structuring the content and creating a semantic layout.
