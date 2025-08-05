@@ -86,3 +86,7 @@ This project is open for learning and experimentation. You are welcome to fork t
 
 License
 This project is created for educational purposes and is not affiliated with or endorsed by Flipkart in any way. The branding and UI mimicry are solely for practice and learning purposes. You may use this project freely for learning and personal portfolio projects, but it should not be used for commercial purposes.
+
+<img width="1919" height="1109" alt="Screenshot 2025-07-28 235746" src="https://github.com/user-attachments/assets/41f397f4-d04a-4da8-a91e-c533c3bb5390" />
+
+
