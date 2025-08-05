@@ -1,4 +1,4 @@
-Flipkart Clone – HTML & CSS
+<img width="1919" height="1105" alt="Screenshot 2025-07-28 235823" src="https://github.com/user-attachments/assets/6e3b2d41-eb59-49f6-bcd2-920217853af5" />Flipkart Clone – HTML & CSS
 
 This repository contains a static Flipkart Clone developed using only HTML and CSS. It is a front-end-only project created to replicate the user interface of one of India's leading e-commerce websites – Flipkart. The goal of this project is to practice front-end development skills and understand the layout, structure, and design principles used in modern e-commerce platforms.
 
@@ -91,6 +91,9 @@ This project is created for educational purposes and is not affiliated with or e
 <img width="1919" height="1109" alt="Screenshot 2025-07-28 235746" src="https://github.com/user-attachments/assets/41f397f4-d04a-4da8-a91e-c533c3bb5390" />
 
 <img width="1919" height="1114" alt="Screenshot 2025-07-28 235801" src="https://github.com/user-attachments/assets/79b68a7d-3749-48b4-b74e-560fface99e0" />
+
+<img width="1919" height="1105" alt="Screenshot 2025-07-28 235823" src="https://github.com/user-attachments/assets/c9a86c59-8793-4309-afb9-7bcdf82aa8eb" />
+
 
 
 
